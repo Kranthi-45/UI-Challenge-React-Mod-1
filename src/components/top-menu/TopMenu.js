@@ -44,7 +44,7 @@ export const TopMenu = () => {
                     }
                 </ul>
             </div>
-            <nav className="navbar navbar-expand-md bg-light navbar-light mobile-menu" style={{ backgroundColor: '#212529' }} >
+            <nav className="navbar navbar-expand-md navbar-light mobile-menu" >
                 <img src="../../assets/logo.svg" alt='logo' />
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar" style={{padding:2, border:"none" , outline:"none"}}>
                     <span className="navbar-toggler-icons">

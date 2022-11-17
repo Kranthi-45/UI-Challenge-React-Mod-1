@@ -131,6 +131,7 @@
   }
   div.banner .mobile-menu {
     display: block;
+    background-color: white;
   }
   button[aria-expanded="true"] > span.close {
     display: inline;
